@@ -1,0 +1,1 @@
+"# AtivosFinanceiros"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/felipermelo7-blip/AtivosFinanceiros.gitgit push -u origin main
